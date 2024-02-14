@@ -1,2 +1,2 @@
 # gamingGalaxies
-gameGalaxies mede mogelijk gemaakt door Ties, Amber, Jona, Robin, Eliza
+gameGalaxies mede mogelijk gemaakt door Ties, Jona, Eliza
