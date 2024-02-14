@@ -2,13 +2,11 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 33: menu statement expects a non-empty block.
-    menu:
-        ^
+The label start is defined twice, at File "game/script.rpy", line 18:
+label start:
+and File "game/script.rpy", line 38:
+label start:
 
-File "game/script.rpy", line 35: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
-    jump Choice_1
-    ^
 
 Ren'Py Version: Ren'Py 8.2.0.24012702
-Tue Feb 13 11:50:17 2024
+Tue Feb 13 21:15:49 2024
